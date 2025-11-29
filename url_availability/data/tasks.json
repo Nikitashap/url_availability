@@ -1,0 +1,40 @@
+{
+  "1": {
+    "task_num": 1,
+    "links": [
+      "good.c",
+      "yandex.ru"
+    ],
+    "statuses": {
+      "good.c": "not available",
+      "yandex.ru": "available"
+    },
+    "done": true
+  },
+  "2": {
+    "task_num": 2,
+    "links": [
+      "gg.c",
+      "vk.ru"
+    ],
+    "statuses": {
+      "gg.c": "not available",
+      "vk.ru": "available"
+    },
+    "done": true
+  },
+  "3": {
+    "task_num": 3,
+    "links": [
+      "good.c",
+      "auto.ru",
+      "tutu.ru"
+    ],
+    "statuses": {
+      "auto.ru": "available",
+      "good.c": "not available",
+      "tutu.ru": "not available"
+    },
+    "done": true
+  }
+}
